@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: monospace;
+}
+header{
+    width: 90%;
+    height: 60px;   
+}
+section{
+    width: 90%;
+    height: 110px;
+    margin: 10px auto;
+}
+
+.titulo{
+    text-align: center;
+    background-color: darksalmon;
+}
+.TITULO{
+    text-align: center;
+    background-color: blue;
+}

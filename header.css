@@ -1,0 +1,36 @@
+header{
+    width: 100%;
+    background-color: aquamarine;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    box-sizing: border-box;
+    padding: 10px 50px 10px 50px;
+}
+
+.nav{
+    list-style: none;
+    width: 200px;
+    padding-top: 10px;
+    
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+:root{
+     --color1: red;
+    --color2: white;
+    --color3: black;
+    
+    --colorTexto:black;
+}
+
+
+.logo{
+    color: var(--color2);
+}
+.nav{
+    list-style: none;
+    color: firebrick;
+}
