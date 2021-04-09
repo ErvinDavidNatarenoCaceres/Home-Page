@@ -1,7 +1,10 @@
 .banner_index{
-    background-color:cornflowerblue;
+    background-image: url(../img/banner%20index.jpg);
+    background-size: cover;
     width: 100%;
     height: 500px;
+    font-family: 'Cinzel', serif;
+    color: white;
 }
 
 .banner_index > .caja_izquierda > h2{
@@ -26,7 +29,7 @@ font-size: 15px;
     
 -webkit-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
 -moz-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);  
+box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);   
 }
 .botton_1:hover{
     background-color: greenyellow;

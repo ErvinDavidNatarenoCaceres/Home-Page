@@ -1,6 +1,8 @@
 header{
     width: 100%;
-    background-color:skyblue;
+    background-color: #0362ee;
+    background-image: linear-gradient(160deg, #0362ee 0%, #ffffff 100%);
+
     display: flex;
     flex-direction: row;
     justify-content: space-between;
