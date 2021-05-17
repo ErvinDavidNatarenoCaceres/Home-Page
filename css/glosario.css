@@ -5,12 +5,13 @@
 }
 header{
     width: 90%;
-    height: 60px;   
+    height: 60px;
 }
 section{
     width: 90%;
     height: 110px;
     margin: 10px auto;
+   
 }
 
 .titulo{
@@ -22,7 +23,8 @@ section{
     background-color: blue;
 }
 .Parrafo{
-    background-color: skyblue;
-    color: black;
+    background-color: #227BBC;
+    color: white;
     padding: 10px;
 }
+

@@ -1,6 +1,7 @@
 header{
     width: 100%;
-    background-color: #0362ee;
+    height: 90px;
+    background-color: #9CCEEF;
     background-image: linear-gradient(160deg, #0362ee 0%, #ffffff 100%);
 
     display: flex;
