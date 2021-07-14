@@ -37,3 +37,6 @@ header{
     list-style: none;
     color: firebrick;
 }
+.name{
+   font-size: 25px;
+}
