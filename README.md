@@ -13,7 +13,7 @@
 - IV Bachillerato en Ciencias y Letras con orientación en Computación 
 - Ciencias Sociales
 - Jossue Emmanuel Fuentes
-- Proyecto:https://ervindavidnatarenocaceres.github.io/Home-Page/
+- Portafolio:https://ervindavidnatarenocaceres.github.io/Home-Page/
 
 
 
