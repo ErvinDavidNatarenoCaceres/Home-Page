@@ -11,7 +11,7 @@
 - Ervin David Natareno
 - Colegio Santa Catalina Laboure
 - IV Bachillerato en Ciencias y Letras con orientación en Computación 
-- Ciencias Sociales
+- Computacion
 - Jossue Emmanuel Fuentes
 - Portafolio:https://ervindavidnatarenocaceres.github.io/Home-Page/
 
