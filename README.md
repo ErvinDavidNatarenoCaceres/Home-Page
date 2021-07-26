@@ -15,6 +15,14 @@
 - Jossue Emmanuel Fuentes
 - Portafolio:https://ervindavidnatarenocaceres.github.io/Home-Page/
 
+# Indice
+1. Portada
+2. Anteportada 
+3. Indice 
+4. Portafolio 
+    4.1. HTML y CSS
+	4.2. Home page : banner de contruccion o presentacion de mi portafolio
+	4.3.  Glosario de HTML y CSS: contenido HTML y CSS
 
 
 
