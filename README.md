@@ -5,7 +5,7 @@
 
 
 
-<img width="200px" src="https://images.unsplash.com/photo-1611924707078-da8777fc99cb?ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8Y29tcHV0ZXJzJTIwb24lMjBkZXNrfGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60">
+<img width="100%" src="https://images.unsplash.com/photo-1611924707078-da8777fc99cb?ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8Y29tcHV0ZXJzJTIwb24lMjBkZXNrfGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60">
 
 # Informacion
 - Ervin David Natareno
@@ -20,8 +20,9 @@
 2. Anteportada 
 3. Indice 
 4. Portafolio 
-4.1. HTML y CSS
-4.2. Home page : banner de contruccion o presentacion de mi portafolio
-4.3.  Glosario de HTML y CSS: contenido HTML y CSS
+5. Home page
+    5.1 Home page introduccion 
+6. Glosario
+    6.1 Glosario HTML y CSS   
 
 
