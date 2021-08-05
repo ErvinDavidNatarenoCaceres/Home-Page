@@ -18,7 +18,7 @@
 1. Portada
 2. Anteportada 
 3. Indice 
-4. Portafolio 
+4. Contenido
 5. Home page
     5.1 Home page introduccion 
 6. Glosario
