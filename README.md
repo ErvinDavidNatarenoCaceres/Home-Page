@@ -12,8 +12,7 @@
 - Colegio Santa Catalina Laboure
 - IV Bachillerato en Ciencias y Letras con orientación en Computación 
 - Computacion
-- Jossue Emmanuel Fuentes
-- Portafolio:https://ervindavidnatarenocaceres.github.io/Home-Page/
+- Maestro: Jossue Emmanuel Fuentes
 
 # 3.Indice
 1. Portada
@@ -24,5 +23,8 @@
     5.1 Home page introduccion 
 6. Glosario
     6.1 Glosario HTML y CSS   
+
+# 4.Contenido 
+    Portafolio: 
 
 
