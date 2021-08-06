@@ -17,14 +17,26 @@
 # 3.Indice
 1. Portada
 2. Anteportada 
-3. Indice 
-4. Contenido
-5. Home page
-    5.1 Home page introduccion 
-6. Glosario
-    6.1 Glosario HTML y CSS   
+3. Indice
+4. Objetivos
+5. Contenido
+6. Home page
+     - Home page introduccion 
+7. Glosario
+    -  Glosario HTML y CSS   
+8. Objetivos Futuros
 
-# 4.Contenido 
+# 4.Objetivos
+ 1. Aprender mas etiquetas
+ 2. Poner mas atencion 
+ 3. Poder recordar etiquetas y poner atencion en java
+
+
+# 5.Contenido 
    https://ervindavidnatarenocaceres.github.io/Home-Page/
+   
+# 6.Objetivos Futuros
+- Poner mas atencion y ser mas creativo en el aspecto de progrmar y ser mas atento en lo del tema de Java ya que es una de mis carreras en la Universidad.
+
 
 
